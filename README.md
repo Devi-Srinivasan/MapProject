@@ -11,6 +11,6 @@ Click [Feed-Reader-testing](http://devi-srinivasan.github.io/Feed-Reader-Testing
 
 ######Toggle Menu
 *	Test cases are wirtten to check
-*     if the menu is hidden or not when page loads.
-*     if the menu toggles when clicked.
-*     if the page contents change when clicked.			
+  * if the menu is hidden or not when page loads.
+  * if the menu toggles when clicked.
+  * if the page contents change when clicked.			
