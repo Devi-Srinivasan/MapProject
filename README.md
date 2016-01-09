@@ -1,6 +1,8 @@
-##Feed-Reader-testing
-As a part of the course, test cases are written using **Jasmine** framework to test the application.
-Click [Feed-Reader-testing](http://devi-srinivasan.github.io/Feed-Reader-Testing/)
+ ##Feed-Reader-testing
+As a part of the Udacity nanodegree course, test cases are written using **Jasmine** framework to test the application.
+Cloned [This repo](https://github.com/udacity/frontend-nanodegree-feedreader) and added following test cases to test the app.
+Click [Feed-Reader-testing with added test cases](http://devi-srinivasan.github.io/Feed-Reader-Testing/)
+
 
 ####Test cases written
 ######AllFeeds Url not empty
@@ -11,6 +13,6 @@ Click [Feed-Reader-testing](http://devi-srinivasan.github.io/Feed-Reader-Testing
 
 ######Toggle Menu
 *	Test cases are wirtten to check
-  * if the menu is hidden or not when page loads.
-  * if the menu toggles when clicked.
-  * if the page contents change when clicked.			
+	*	if the menu is hidden or not when page loads.
+	*	if the menu toggles when clicked.
+	*	if the page contents change when clicked.			
