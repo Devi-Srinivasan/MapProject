@@ -1,5 +1,4 @@
 ##Feed-Reader-testing
-###### Using Jasmine framework test cases are written to test the javascript
-[Feed-Reader-testing](devi-srinivasan.github.io/Feed-Reader-Testing)
-
+###### As a part of the course, test cases are written using Jasmine framework to test the application.
+Click here to go to[Feed-Reader-testing](devi-srinivasan.github.io/Feed-Reader-Testing)
 
