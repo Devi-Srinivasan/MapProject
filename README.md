@@ -1,4 +1,4 @@
- ##Feed-Reader-testing
+##Feed-Reader-testing
 As a part of the Udacity nanodegree course, test cases are written using **Jasmine** framework to test the application.
 Cloned [This repo](https://github.com/udacity/frontend-nanodegree-feedreader) and added following test cases to test the app.
 Click [Feed-Reader-testing with added test cases](http://devi-srinivasan.github.io/Feed-Reader-Testing/)
