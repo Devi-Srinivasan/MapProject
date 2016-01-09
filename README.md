@@ -15,4 +15,9 @@ Click [Feed-Reader-testing(My version)](http://devi-srinivasan.github.io/Feed-Re
 *	Test cases are wirtten to check
 	*	if the menu is hidden or not when page loads.
 	*	if the menu toggles when clicked.
-	*	if the page contents change when clicked.			
+	*	if the page contents change when clicked.
+	
+####Following materials are used for learning	
+*	http://jasmine.github.io/2.1/introduction.html
+*	http://evanhahn.com/how-do-i-jasmine/
+*	http://www.cheatography.com/citguy/cheat-sheets/jasmine-js-testing/
